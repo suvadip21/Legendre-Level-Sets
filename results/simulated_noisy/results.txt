@@ -1,0 +1,8 @@
+Algorithm	 Calculation Time	 Dice
+Caselles	 	 0.000	 	 0.000
+Chan & Vese	 	 2.169	 	 0.352
+Chunming Li	 	 62.091	 	 0.574
+Lankton	 	 	 4.124	 	 0.907
+Bernard	 	 	 0.000	 	 0.000
+Shi	 	 	 0.000	 	 0.000
+Suvadip	 	 
